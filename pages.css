@@ -1,0 +1,28 @@
+.journal-title{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
+  margin: 1rem 3rem 3rem 3rem;
+  color: #10111b;
+}
+
+.journal-header{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5em;
+  margin: 1rem 3rem 1rem 4rem;
+  color: #1a1d35;
+}
+
+.journal-text{
+  font-family: 'Mukta', sans-serif;
+  font-size: 1em;
+  margin: 1rem 3rem 1rem 5rem;
+  color: #414358;
+}
+
+.journal-link{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1em;
+  margin: 1rem 3rem 1rem 5rem;
+  text-decoration: none;
+  color: #393747;
+}
